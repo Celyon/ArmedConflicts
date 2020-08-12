@@ -54,7 +54,7 @@ install.packages("car")
 
 Secondly, create a series of folders:
 
-Running the code in CreatDir.R
+Running the code in "CreatDir.R"
 
 
 
