@@ -51,9 +51,9 @@ The dataset that support the findings of this study is available from the websit
 
 Running the code (Steps 1,2,3 and 4 section) in "StrategyA_12M_modelling.R", "StrategyA_24M_modelling.R", "StrategyB_12M_modelling.R" and "StrategyB_24M_modelling.R". 
 Running the code in "Statistical-test.R" to make a statistical analysis (collinearity test and significance analysis).
-Running the code in "Relative-contribution" to analyze the relative contribution of covariates.
+Running the code in "RelativeContribution" to analyze the relative contribution of covariates.
 Running the code in "Csv-to-raster.py" to rasterize simulation results.
-Running the code in "Raster-Mean-SD-Estimated.R" to estimate the mean and standard deviation of simulation results.
+Running the code in "Mean-SD-Estimated.R" to estimate the mean and standard deviation of simulation results.
 
 
 

@@ -1,5 +1,5 @@
 ##Analyze the relative contribution of covariates##
-##Data sources of Figure 2 and Supplementary Figures 4-6##
+##Data sources of Figure 2, Supplementary Figures 4-6 and Supplementary Table 4##
 ##Author:Fangyu Ding##
 ##Time:20200803##
 
