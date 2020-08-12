@@ -1,6 +1,6 @@
 ### Author:Fangyu Ding ###
 ### time: 20200803  ###
-### Download NDVI dataset, Move NDVI data to the "E:\\Conflict\\Data\\"###
+### Download NDVI dataset from https://github.com/Celyon/ArmedConflicts/tree/master/Data, Move NDVI data to the "E:\\Conflict\\Data\\"###
 ### Rasterize the simulated results###
 from osgeo import gdal
 import numpy as np
