@@ -43,14 +43,14 @@ Running the code in CreatDir.R
 
 5.Dataset
 
-The dataset that support the findings of this study is available from the website of Figshare (DOI: https://doi.org/10.6084/m9.figshare.12756491.v1), and unzip the dataset under the folder (Tables). Then, the RevisedVersion folder can be found in the Tables folder.
+The dataset that support the findings of this study is available on the website of Figshare (DOI: https://doi.org/10.6084/m9.figshare.12756491.v1), and unzip the dataset under the folder (Tables). Then, the RevisedVersion folder can be found in the Tables folder.
 
 
 
 6.Examples
 
 Running the code (Steps 1,2,3 and 4 section) in "StrategyA_12M_modelling.R", "StrategyA_24M_modelling.R", "StrategyB_12M_modelling.R" and "StrategyB_24M_modelling.R". 
-Running the code in "Statistical-test.R" to make a statistical analysis (collinearity test and significance analysis).
+Running the code in "StatisticalTest.R" to make a statistical analysis (collinearity test and significance analysis).
 Running the code in "RelativeContribution" to analyze the relative contribution of covariates.
 Running the code in "Csv-to-raster.py" to rasterize simulation results.
 Running the code in "Mean-SD-Estimated.R" to estimate the mean and standard deviation of simulation results.
