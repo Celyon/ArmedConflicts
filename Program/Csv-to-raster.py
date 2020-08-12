@@ -1,5 +1,7 @@
-## author:DFY ##
-## time: 20200803  ##
+### Author:Fangyu Ding ###
+### time: 20200803  ###
+### Download NDVI dataset, Move NDVI data to the "E:\\Conflict\\Data\\"###
+### Rasterize the simulated results###
 from osgeo import gdal
 import numpy as np
 import os 
