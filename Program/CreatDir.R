@@ -8,6 +8,7 @@ dir.create("Graphic")
 dir.create("Model")
 dir.create("Product")
 dir.create("Tables")
+dir.create("Data")
 
 dir.create("Product\\step1")
 dir.create("Product\\step2")
