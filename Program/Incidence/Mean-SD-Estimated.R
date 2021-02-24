@@ -1,7 +1,7 @@
 ##Estimate the mean and standard deviation of simulation results##
 ##Data sources of Figure 3 and Supplementary Figures 7-14##
 ##Author:Fangyu Ding##
-##Time:20200803##
+##Time:20210224##
 
 ##Strategy a+ all##
 

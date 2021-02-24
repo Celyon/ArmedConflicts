@@ -1,7 +1,7 @@
 ##Step1##
 ##train BRT models using one-year sample (Onset one year) under strategy a##
 ##Author:Fangyu Ding##
-##Time:20200716##
+##Time:20210216##
 ##Run Time: approximately 20 hours##
 rm(list=ls());
 library(caret);

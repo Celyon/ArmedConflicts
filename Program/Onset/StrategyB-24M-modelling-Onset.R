@@ -1,7 +1,7 @@
 ##Step1##
 ##train BRT models using one-year sample (Onset one year) under strategy b+##
 ##Author:Fangyu Ding##
-##Time:20200716##
+##Time:20210216##
 ##Run Time: approximately 20 hours##
 rm(list=ls());
 library(caret);
@@ -208,7 +208,7 @@ print(runningtime)
 ##Step2##
 ##Time-cross validation method##
 ##Author:Fangyu Ding##
-##Time:20200716##
+##Time:20210216##
 ##Evaluate the performance of BRT models at time scale##
 ##Run Time: approximately 2 hours##
 rm(list=ls());
@@ -315,7 +315,7 @@ write.csv(Accuracy_data, file="E:\\Conflict\\Tables\\Performace\\Performance_Tim
 ##Step3##
 ##train BRT models using the merged all samples (2000-2015) under strategy b+##
 ##Author:Fangyu Ding##
-##Time:20200716##
+##Time:20210216##
 ##Run Time: approximately 24 hours##
 ##Increase sample size and avoid the model skew to the single-year sample##
 rm(list=ls());
